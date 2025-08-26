@@ -1,0 +1,6 @@
+# サンプルメッセージ サービスは基本使うことはない
+float64 a
+float64 b
+---
+float64 sum
+float64 diff
