@@ -1,0 +1,1 @@
+uint16[4] param # xmin, ymin, xmax, ymax
